@@ -1,4 +1,4 @@
-# P. Mountain Ski
+# Mountain Ski
 
 ## Problem Statement
 A ski resort in Italy hosts a slalom competition. Every participant skis down a mountain, earning points at each section of the path. The mountain is represented as a triangle of integers.  
