@@ -1,4 +1,4 @@
-# K. Word Search
+# Word Search
 
 ## Problem Statement  
 You are given an `n × m` grid of lowercase English letters and a target word `w`.  
